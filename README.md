@@ -6,24 +6,8 @@
   <a href="https://linkedin.com/in/parth-savajadiya" target="blank"
     ><img
       align="center"
-      src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1618234763~hmac=c56a168804fb89ced3731fe01d893cc5"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
       alt="parth-savajadiya"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/parth.savajadiya" target="blank"
-    ><img
-      align="center"
-      src="https://www.flaticon.com/svg/vstatic/svg/145/145802.svg?token=exp=1618234864~hmac=c8f54e48128eb9db4c3834fa959bcf63"
-      alt="parth.savajadiya"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/parth_savajadiya_7443" target="blank"
-    ><img
-      align="center"
-      src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1618234908~hmac=0363df3c08e59bb1741236f4aff60d68"
-      alt="parth_savajadiya_7443"
       height="30"
       width="40"
   /></a>
