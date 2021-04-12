@@ -122,7 +122,6 @@
           height="40"
         />
       </a>
-    
     <h3 align="left">Database:</h3>
     <a href="https://www.oracle.com/" target="_blank">
       <img
@@ -148,7 +147,6 @@
         height="40"
       />
     </a>
- 
     <h3 align="left">Other:</h3>
     <a href="https://git-scm.com/" target="_blank">
       <img
